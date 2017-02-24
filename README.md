@@ -4,9 +4,9 @@ I have created some apps on top of that messenger.
 
 #Technology Used
 
-1) PHP
-2) HTML
-3) Java Script
-4) XAMPP
-5) ngrok
-6) Bootstrap/CSS
+1) PHP<br/>
+2) HTML<br/>
+3) Java Script<br/>
+4) XAMPP<br/>
+5) ngrok<br/>
+6) Bootstrap/CSS<br/>
