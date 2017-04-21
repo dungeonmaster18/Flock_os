@@ -2,7 +2,7 @@
 Flock os is team messenger app designed and developed for organisation teams to work together.
 I have created some apps on top of that messenger.
 
-#Technology Used
+# Technology Used
 
 1) PHP<br/>
 2) HTML<br/>
