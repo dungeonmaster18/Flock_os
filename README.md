@@ -10,3 +10,7 @@ I have created some apps on top of that messenger.
 4) XAMPP<br/>
 5) ngrok<br/>
 6) Bootstrap/CSS<br/>
+
+# Licence
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENCE.md) file for details
